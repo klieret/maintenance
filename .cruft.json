@@ -1,0 +1,20 @@
+{
+  "template": "/Users/fuchur/Documents/22/git_sync/python-cookiecutter",
+  "commit": "799dfb44a741ea4ef637fe25d3852c53bf23974f",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "maintenance",
+      "package_name": "maintenance",
+      "description": "Maintenance scripts for klieret",
+      "url": "https://github.com/klieret/maintenance",
+      "full_name": "Kilian Lieret",
+      "email": "kilian.lieret@posteo.de",
+      "maintainer": "Kilian Lieret",
+      "maintainer_email": "kilian.lieret@posteo.de",
+      "year": "2022",
+      "_template": "/Users/fuchur/Documents/22/git_sync/python-cookiecutter"
+    }
+  },
+  "directory": null
+}
