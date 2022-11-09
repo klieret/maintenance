@@ -8,6 +8,6 @@
 [![License](https://img.shields.io/github/license/klieret/maintenance)](https://github.com/klieret/maintenance/blob/master/LICENSE.txt)
 [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
 
-Maintenance scripts for my repositories, using [`multi-gitter`](https://github.com/lindell/multi-gitter/).
+Maintenance scripts for my repositories, using [`multi-gitter`](https://github.com/lindell/multi-gitter/). The individual scripts are in the `scripts/` subfolder. Some common functions are in the python package.
 
 More inspiration: [similar maintenance scripts of hsf-training](github.com/hsf-training/maintenance) (in particular I'm using the [helpers scripts](https://github.com/hsf-training/maintenance/tree/main/helpers) from there)
