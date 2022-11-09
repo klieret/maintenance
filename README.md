@@ -1,4 +1,4 @@
-# maintenance
+# Maintenance scripts for klieret
 
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/klieret/maintenance/main.svg)](https://results.pre-commit.ci/latest/github/klieret/maintenance/main)
 [![gh actions](https://github.com/klieret/maintenance/actions/workflows/test.yaml/badge.svg)](https://github.com/klieret/maintenance/actions/workflows/test.yaml)
@@ -8,4 +8,6 @@
 [![License](https://img.shields.io/github/license/klieret/maintenance)](https://github.com/klieret/maintenance/blob/master/LICENSE.txt)
 [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
 
-Maintenance scripts for my repositories.
+Maintenance scripts for my repositories, using [`multi-gitter`](https://github.com/lindell/multi-gitter/).
+
+More inspiration: [similar maintenance scripts of hsf-training](github.com/hsf-training/maintenance) (in particular I'm using the [helpers scripts](https://github.com/hsf-training/maintenance/tree/main/helpers) from there)
