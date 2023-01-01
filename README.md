@@ -10,4 +10,4 @@
 
 Maintenance scripts for my repositories, using [`multi-gitter`](https://github.com/lindell/multi-gitter/). The individual scripts are in the `scripts/` subfolder. Some common functions are in the python package.
 
-More inspiration: [similar maintenance scripts of hsf-training](github.com/hsf-training/maintenance) (in particular I'm using the [helpers scripts](https://github.com/hsf-training/maintenance/tree/main/helpers) from there)
+More inspiration: [similar maintenance scripts of hsf-training](https://github.com/hsf-training/maintenance) (in particular I'm using the [helpers scripts](https://github.com/hsf-training/maintenance/tree/main/helpers) from there)
