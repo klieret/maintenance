@@ -6,6 +6,9 @@ IFS=$'\n\t'
 
 set -x
 
+THIS_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+source "${THIS_DIR}/export_gh_token.sh"
+
 BRANCH_NAME="${1:-pre-commit-ci-update-config}"
 echo "Branch name: ${BRANCH_NAME}"
 
