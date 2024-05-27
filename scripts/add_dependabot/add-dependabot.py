@@ -14,7 +14,7 @@ this_dir = Path(__file__).resolve().parent
 cwd = Path(os.getcwd()).resolve()
 
 user, _, repo_name = os.environ["REPOSITORY"].partition("/")
-logger.debug(f"{user = }, {repo_name = }")
+logger.debug(f"{user=}, {repo_name=}")
 
 
 if is_fork("klieret", repo_name):
