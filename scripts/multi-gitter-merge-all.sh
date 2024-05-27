@@ -14,6 +14,6 @@ echo "Branch name: ${BRANCH_NAME}"
 
 multi-gitter merge -U klieret --branch "${BRANCH_NAME}" --merge-type squash,merge
 
-for org in dieret hsf-training gnn-tracking clusterking cidakima HSF; do
+for org in dieret hsf-training gnn-tracking clusterking cidakima HSF object-condentation; do
     multi-gitter merge -O "${org}" --branch "${BRANCH_NAME}" --merge-type squash,merge
 done
