@@ -6,7 +6,6 @@ This script will take the output of multi-gitter and open all of the PRs in the
 browser for you.
 """
 
-
 from __future__ import annotations
 
 import webbrowser
